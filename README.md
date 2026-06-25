@@ -402,6 +402,12 @@ Therefore, the first principle must be strict:
 
 ---
 
+### Global Warming Causal Structure and Cooling Credit
+
+- [Cooling Credit Definition](https://github.com/InchaComisho/Cooling-Credit-Definition)
+
+
+
 ## References
 
 - International Energy Agency, CO₂ Emissions in 2023: https://www.iea.org/reports/co2-emissions-in-2023

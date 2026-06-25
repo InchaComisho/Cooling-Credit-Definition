@@ -402,6 +402,12 @@ Verification：独立または再現可能な形で確認できること。
 
 ---
 
+### 地球温暖化の因果構造とクーリングクレジット
+
+- [Cooling Credit Definition](https://github.com/InchaComisho/Cooling-Credit-Definition)
+
+
+
 ## 参考資料
 
 - International Energy Agency, CO₂ Emissions in 2023: https://www.iea.org/reports/co2-emissions-in-2023
