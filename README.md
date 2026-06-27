@@ -406,14 +406,37 @@ Therefore, the first principle must be strict:
 
 - [Cooling Credit Definition](https://github.com/InchaComisho/Cooling-Credit-Definition)
 
-
-
 ## References
 
 - International Energy Agency, CO₂ Emissions in 2023: https://www.iea.org/reports/co2-emissions-in-2023
 - Global Carbon Project, Global Carbon Budget: https://globalcarbonbudget.org/
 - Reuters, global energy-related CO₂ emissions reached a record high in 2023: https://www.reuters.com/business/energy/global-energy-related-co2-emissions-hit-record-high-2023-iea-2024-03-01/
 - Reuters, carbon offsets and SBTi discussion: https://www.reuters.com/sustainability/corporate-climate-watchdog-document-deems-carbon-offsets-largely-ineffective-2024-05-09/
+
+<!-- COOLING-CREDIT-REPOSITORY-FAMILY:START -->
+
+---
+
+## Related Cooling Credit Repository Family
+
+This repository is part of the broader Cooling Credit knowledge system.
+The related repositories are mutually linked so that the definition, framework, implementation portfolio, finance model, disaster-risk interpretation, and transition from carbon credits to cooling credits can be read as one connected structure.
+
+| Repository | Role |
+|---|---|
+| [Cooling-Credit](https://github.com/InchaComisho/Cooling-Credit) | Core portal for the Cooling Credit concept |
+| [Cooling-Credit-Definition](https://github.com/InchaComisho/Cooling-Credit-Definition) | Definition and conceptual foundation of Cooling Credits |
+| [Cooling-Credit-Framework](https://github.com/InchaComisho/Cooling-Credit-Framework) | Framework, business models, and applied structure |
+| [Cooling-Credit-Implementation-Portfolio](https://github.com/InchaComisho/Cooling-Credit-Implementation-Portfolio) | Portfolio of implementation models and project types |
+| [Cooling-Credit-Implementation-and-Finance-Model](https://github.com/InchaComisho/Cooling-Credit-Implementation-and-Finance-Model) | Implementation roadmap, finance model, MRV, simulations, and global stabilization scenario |
+| [Carbon-Credit-to-Cooling-Credit](https://github.com/InchaComisho/Carbon-Credit-to-Cooling-Credit) | Transition logic from carbon-credit accounting to physical cooling outcomes |
+| [carbon-credit-limitations-cooling-credit](https://github.com/InchaComisho/carbon-credit-limitations-cooling-credit) | Limits of carbon-credit approaches and the need for cooling-based evaluation |
+| [Sustainable-Future-Cooling-Credit-Portal](https://github.com/InchaComisho/Sustainable-Future-Cooling-Credit-Portal) | Portal for sustainable future and Cooling Credit integration |
+| [El-Nino-Warning-and-Cooling-Credit](https://github.com/InchaComisho/El-Nino-Warning-and-Cooling-Credit) | El Nino, heat accumulation, warning logic, and Cooling Credit relevance |
+| [Climate-Disasters-as-Heat-Redistribution-and-Cooling-Credit](https://github.com/InchaComisho/Climate-Disasters-as-Heat-Redistribution-and-Cooling-Credit) | Climate disasters interpreted as heat redistribution and cooling-system failure |
+
+<!-- COOLING-CREDIT-REPOSITORY-FAMILY:END -->
+
 
 ---
 
