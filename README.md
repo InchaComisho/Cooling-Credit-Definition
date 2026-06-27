@@ -1,442 +1,254 @@
 # Cooling Credit Definition
-## A Physical and MRV-Based Definition of Cooling Credits
 
-**Cooling Credit Definition** defines Cooling Credits as a credit unit for actions that physically reduce existing heat loads, restore natural cooling functions, and contribute to the resilience of humans, civilization, and nature.
+[English](README.md) | [日本語](README_ja.md) | [العربية](README_ar.md)
 
----
+## Proposed International Definition and Classification Framework
 
-## Languages
+A **Cooling Credit** is a verified credit unit representing a measurable contribution to the direct reduction of existing thermal load or the restoration of natural cooling functions in the Earth system.
 
-- [English](README.md)
-- [日本語](README_ja.md)
-- [العربية](README_ar.md)
+Cooling Credits must not be confused with carbon credits, sunshade credits, reflect credits, solar-geoengineering credits, or general climate-adaptation credits.
 
----
+The term **Cooling Credit** should be reserved only for interventions that directly reduce temperature, reduce existing heat load, or restore the natural processes that move, dissipate, transform, or buffer heat.
 
-## Abstract
-
-A **Cooling Credit** is not a carbon offset, not an environmental label, and not a credit for an activity that only appears beneficial on paper.
-
-In this repository, a Cooling Credit is defined as:
-
-> **A credit unit granted only to actions that physically and measurably reduce existing heat loads on Earth, restore natural cooling functions, and contribute to the sustainability of humans, civilization, and nature.**
-
-The core question is not only whether CO₂ emissions were reduced somewhere on an accounting sheet.
-
-The core question is:
-
-> **Was heat actually reduced?**
-
-This repository establishes a strict boundary: actions that do not physically reduce present heat loads, do not restore water-cycle or natural cooling functions, and cannot be measured, reported, and verified should not be called Cooling Credits under this definition.
+This document is a proposed international definition and classification framework. It is not presented as an already adopted ISO standard.
 
 ---
 
-## 1. Definition of Cooling Credit
+## 1. Short Definition
 
-A **Cooling Credit** is a credit unit based on physical cooling contribution.
+A **Cooling Credit** is a verified unit of physical cooling or natural cooling-function restoration.
 
-It evaluates actions that reduce heat stress, surface temperature, waste heat, soil dryness, degraded evapotranspiration, ocean heat stagnation, or other forms of accumulated thermal load.
-
-A Cooling Credit should be granted only when a project can show measurable evidence such as:
-
-- reduced air temperature;
-- reduced surface temperature;
-- improved WBGT or heat-stress index;
-- reduced urban waste heat;
-- increased soil moisture;
-- restored vegetation cover;
-- restored evapotranspiration;
-- reduced cooling energy demand;
-- improved water-cycle function;
-- improved ocean circulation or oxygenation conditions, where safely and responsibly verified;
-- reduced heat-related risk to communities, agriculture, or ecosystems.
-
-In short:
-
-> **A Cooling Credit is proof that a cooling action produced measurable cooling value.**
+It may be issued only when an intervention measurably reduces existing heat load, lowers ambient temperature, lowers land or water temperature, restores water-cycle cooling, enhances latent heat transport, recovers soil moisture, supports evapotranspiration, improves ocean-atmosphere heat exchange, or restarts natural cooling processes.
 
 ---
 
-## 2. Why the Word “Cooling” Must Be Strict
+## 2. Formal Definition
 
-The climate field already contains many terms: sustainability, net zero, carbon neutrality, ESG, offsetting, mitigation, adaptation, and green transition.
+A **Cooling Credit** is a measurable, verifiable, and attributable unit representing one or more of the following outcomes:
 
-Many of these concepts are important. However, they do not automatically mean that present heat has been reduced.
+1. direct reduction of ambient air temperature;
+2. direct reduction of land-surface temperature;
+3. direct reduction of water or sea-surface temperature;
+4. reduction of existing thermal load in a defined area or system;
+5. restoration or supplementation of water phase transitions, including evaporation, condensation, cloud formation, precipitation support, freezing, melting, and latent heat transport;
+6. restoration of soil moisture, vegetation evapotranspiration, or hydrological buffering;
+7. restoration or support of ocean-atmosphere heat exchange and circulation;
+8. reduction of climate-related risk pressure through measurable cooling or cooling-function recovery.
 
-A company may purchase an offset.  
-A project may reduce future emissions.  
-A policy may improve a carbon balance sheet.  
-A technology may claim climate relevance.
+A Cooling Credit must be based on physical cooling or the recovery of natural heat-transport functions. It must not be based merely on emissions accounting, solar blocking, albedo enhancement, or visual greening.
 
-But none of these automatically proves that a city, farm, forest, ocean region, or living environment has actually become cooler.
+---
 
-Climate damage ultimately appears as heat:
+## 3. Core Principle
 
-- heat waves;
-- urban heat islands;
-- rising sea surface temperatures;
-- marine heat waves;
-- drought;
-- wildfire risk;
-- soil drying;
-- increased cooling demand;
-- crop heat stress;
-- infrastructure heat stress;
-- degraded water cycles.
-
-For this reason, climate action needs two complementary categories:
+The core question of a Cooling Credit is:
 
 ```text
-Input-side measures:
-Measures that reduce additional future heat trapping.
-Examples: CO₂ reduction, energy efficiency, renewable energy, carbon fixation.
-
-Output-side measures:
-Measures that reduce heat already accumulated or stagnating in local and planetary systems.
-Examples: urban cooling, water-cycle restoration, soil moisture recovery, forest regeneration, ocean circulation support.
+How much heat load, temperature stress, water-cycle disruption, soil moisture loss, or natural cooling-function decline was physically reduced?
 ```
 
-Cooling Credits belong to the second category: **output-side heat-load reduction**.
+This is different from a Carbon Credit, which asks:
+
+```text
+How much CO₂ was reduced, removed, or offset?
+```
+
+A Cooling Credit is not an emissions-accounting instrument. It is a physical cooling and natural-system restoration instrument.
 
 ---
 
-## 3. Solar Radiation Modification Is Not Cooling Credit
+## 4. Strict Naming Boundary
 
-Solar radiation modification, solar geoengineering, stratospheric aerosol injection, cloud brightening, and similar approaches aim to reflect or reduce incoming solar radiation.
+The word **cooling** must be protected.
 
-These approaches may be discussed as research subjects under climate-risk scenarios. Scientific investigation, risk assessment, and governance discussions may be necessary.
+A project may be called a **Cooling Credit** only when its verified primary outcome is direct cooling or the restoration of natural cooling functions.
 
-However, under this definition, they should not automatically be treated as Cooling Credits.
+The following must not be called Cooling Credits by default:
 
-The reason is simple:
+- projects that mainly block sunlight;
+- projects that mainly shade the Earth;
+- projects that mainly increase reflectivity;
+- projects that mainly whiten surfaces;
+- projects that mainly change carbon accounts;
+- projects that mainly reduce vulnerability without measurable cooling;
+- projects that cannot demonstrate physical cooling through MRV.
 
-> **Reducing incoming sunlight is not the same as physically reducing heat already accumulated in cities, soils, forests, oceans, and living environments.**
-
-Solar radiation modification primarily addresses the incoming side of the planetary energy balance. Cooling Credits, by contrast, must evaluate physical cooling effects in actual systems.
-
-The distinction is fundamental:
-
-```text
-Solar radiation modification:
-Attempts to reduce part of incoming solar energy.
-
-Cooling Credit:
-Evaluates verified reduction of existing heat loads and restoration of natural cooling functions.
-```
-
-Solar radiation modification also carries unresolved concerns, including:
-
-- uncertain impacts on precipitation patterns;
-- ecological and regional climate risks;
-- governance and liability challenges;
-- dependence on continuous deployment;
-- potential rebound or termination shock risks;
-- lack of direct restoration of soil moisture, vegetation transpiration, urban cooling, or ocean circulation.
-
-Therefore, even if solar radiation modification could theoretically suppress part of future warming, it should not be confused with a Cooling Credit unless it can demonstrate verified, safe, local or systemic cooling effects that reduce existing heat loads and restore natural cooling functions.
-
-Cooling Credit is not a planetary sunshade credit.
-
-Cooling Credit is a credit for actual, measurable cooling.
+If these projects produce verified direct cooling outcomes, those outcomes may be evaluated separately. However, their primary classification must remain distinct.
 
 ---
 
-## 4. Lessons from Carbon Credit Limitations
+## 5. Eligible Cooling Credit Activities
 
-Carbon credits were designed to evaluate CO₂ reductions, removals, or offsets. In principle, such systems can support climate finance and mitigation.
+Activities may qualify as Cooling Credit projects only when they directly reduce temperature or restore natural cooling functions.
 
-However, the global reality must be examined carefully.
-
-Despite many years of carbon-credit markets, offset mechanisms, corporate net-zero strategies, and major financial flows, global CO₂ emissions have remained at record or near-record levels. The International Energy Agency reported that global energy-related CO₂ emissions reached a record high in 2023. The Global Carbon Project reported record-high fossil CO₂ emissions in 2024.
-
-This does not mean every carbon-credit project is meaningless. Some reforestation, methane reduction, renewable-energy, energy-efficiency, and carbon-removal efforts may have value.
-
-The problem is structural: carbon credits have often been used as substitutes for direct emission reduction.
-
-In many cases, the logic becomes:
-
-```text
-Continue emitting here,
-claim reduction or removal somewhere else,
-and balance it on paper.
-```
-
-This creates the risk that offsetting becomes a permission structure rather than a transformation structure.
-
-Cooling Credits must not repeat this failure.
-
-A Cooling Credit cannot be an accounting label.  
-It cannot be a public-relations instrument.  
-It cannot be a certificate for an unmeasured claim.
-
-Cooling Credits must begin from a stricter rule:
-
-> **Credits should be granted only to actions that measurably reduce heat.**
-
-If carbon credits are primarily carbon accounting, Cooling Credits must be thermal-environment accounting.
-
-And thermal-environment accounting must ask:
-
-- Did temperature decrease?
-- Did heat load decrease?
-- Was the result measured?
-- Was it verified?
-- Was a natural cooling function restored?
-- Did the action contribute to human, civilizational, and ecological resilience?
-
-Without these answers, a project should not receive a Cooling Credit.
+| Category | Eligible when measurable |
+|---|---|
+| Urban evaporative cooling | Directly lowers ambient heat stress, WBGT, or local temperature |
+| Rainwater retention and reuse | Restores evaporative buffering and reduces surface overheating |
+| Soil moisture recovery | Restores thermal buffering and evapotranspiration |
+| Vegetation and agroforestry recovery | Increases evapotranspiration and lowers land-surface heat |
+| Wetland and watershed restoration | Restores hydrological cooling and flood-heat buffering |
+| Ocean cooling support | Reduces surface thermal stress or restores ocean-atmosphere heat exchange |
+| Ocean Tuning Units or equivalent systems | Restores circulation, vertical mixing, dissolved oxygen, or thermal regulation under strict monitoring |
+| Dryland evaporative cooling | Reduces surface heat accumulation and supports water-cycle recovery |
+| Waste-heat reduction systems | Reduces ambient thermal discharge |
+| Cooling infrastructure with MRV | Produces verified physical cooling outcomes |
 
 ---
 
-## 5. Cooling Credit Is Not a License to Emit
+## 6. Excluded Categories
 
-Cooling Credits must not become a license to continue emissions.
+The following categories must not be called Cooling Credits unless they also produce separately verified direct cooling or natural cooling-function restoration.
 
-The purpose is not:
+### 6.1 Sunshade Credit
 
-```text
-We cooled something, therefore we may emit more elsewhere.
-```
-
-The purpose is:
-
-```text
-We must reduce emissions,
-and we must also reduce heat already accumulated in the Earth system.
-```
-
-CO₂ reduction and Cooling Credits are complementary, not interchangeable.
-
-```text
-CO₂ reduction:
-Reduces future heat trapping.
-
-Cooling Credit:
-Reduces already accumulated or stagnant heat loads.
-```
-
-A Cooling Credit should never justify avoidable emissions. It should represent additional verified cooling value.
-
----
-
-## 6. Water Phase Change and Natural Cooling Functions
-
-Water is central to Earth’s cooling system.
-
-When water evaporates, it absorbs heat.  
-When vegetation transpires, it cools its surroundings.  
-When soil holds moisture, it buffers surface heating.  
-When forests function properly, they support water cycles and regional cooling.  
-When oceans circulate, they redistribute heat and oxygen.
-
-Therefore, Cooling Credits must evaluate more than carbon.
-
-They must evaluate whether a project helps restore:
-
-- water retention;
-- evaporation and evapotranspiration;
-- soil moisture;
-- vegetation cover;
-- urban water circulation;
-- forest hydrological function;
-- ocean heat and oxygen circulation;
-- reduction of stagnant heat in living environments.
-
-In this definition, the restoration of natural cooling functions is not optional. It is central.
-
-A project that does not physically reduce heat, does not engage water-cycle or thermal processes, and does not restore cooling function should not be treated as a Cooling Credit.
-
----
-
-## 7. Candidate Categories for Cooling Credits
-
-### Urban Cooling
+Interventions that primarily block, shade, or reduce incoming solar radiation should be classified as **Sunshade Credits**, not Cooling Credits.
 
 Examples include:
 
-- urban trees;
-- rainwater storage;
-- urban waterways;
-- mist cooling;
-- rooftop greening;
-- wall greening;
-- water-retentive pavement;
-- waste-heat reduction;
-- district cooling improvements;
-- heat-stress reduction in public spaces.
+- stratospheric aerosol injection;
+- orbital sunshades;
+- space-based solar shields;
+- large-scale atmospheric sunlight-blocking systems;
+- geoengineering methods whose main mechanism is reducing solar radiation reaching the Earth.
 
-Urban cooling projects should be evaluated by surface temperature, air temperature, WBGT, cooling demand, waste-heat reduction, and human heat-risk reduction.
+These methods may reduce incoming solar energy, but they do not necessarily restore water phase transitions, soil moisture, evapotranspiration, ocean circulation, or the dissipation of existing heat load.
 
-### Soil Recovery and Agricultural Cooling
+Therefore, they should not be classified as Cooling Credits.
+
+### 6.2 Reflect Credit
+
+Interventions that primarily increase surface reflectivity or albedo should be classified as **Reflect Credits**, not Cooling Credits.
 
 Examples include:
 
-- compost and humus application;
-- organic-matter circulation;
+- ground reflectors;
+- white-painted surfaces;
+- reflective roofs;
+- reflective pavements;
+- reflective desert sheets;
+- mirror-based surface reflection systems.
+
+These methods may reflect sunlight or reduce local heat absorption, but their primary mechanism is reflection, not direct cooling or restoration of natural cooling functions.
+
+Therefore, they should not be called Cooling Credits unless they are separately verified to produce direct cooling outcomes that satisfy Cooling Credit MRV requirements.
+
+### 6.3 Carbon Credit
+
+Carbon Credits must not be treated as Cooling Credits by default.
+
+Carbon credits may reduce, remove, or offset greenhouse gas emissions. However, they do not necessarily demonstrate:
+
+- direct temperature reduction;
+- existing heat-load reduction;
+- water-cycle cooling recovery;
 - soil moisture recovery;
-- cover crops;
-- green manure;
-- reduced soil surface temperature;
-- restored evapotranspiration;
-- improved crop-zone microclimate.
+- evapotranspiration recovery;
+- ocean-atmosphere circulation recovery;
+- measurable reduction of heat stress.
 
-Dry soil stores and radiates heat more easily. Moist, biologically active soil can restore part of the land’s cooling function.
-
-### Forest and Green-Space Regeneration
-
-Examples include:
-
-- conversion from monoculture plantations to mixed forests;
-- restoration of abandoned forests;
-- native vegetation recovery;
-- watershed restoration;
-- forest evapotranspiration recovery;
-- erosion control;
-- local cooling effect.
-
-Forests should not be viewed only as carbon sinks. They are also water-cycle and cooling infrastructures.
-
-### Ocean Cooling and Circulation Support
-
-Examples include:
-
-- reduction of ocean surface heat risk;
-- vertical circulation support;
-- dissolved oxygen recovery;
-- marine heat-wave risk reduction;
-- plankton-system support;
-- responsible ocean cooling research under strict monitoring.
-
-Ocean intervention requires extreme caution. Regional suitability, ecological risk assessment, stop conditions, and long-term monitoring are essential.
+Carbon Credits and Cooling Credits are separate categories.
 
 ---
 
-## 8. MRV: Measurement, Reporting, and Verification
+## 7. Classification Rule
 
-Cooling Credits require MRV.
+| Credit type | Primary mechanism | Can it be called Cooling Credit? |
+|---|---|---|
+| Cooling Credit | Direct temperature reduction or natural cooling-function restoration | Yes |
+| Carbon Credit | CO₂ reduction, removal, or offset | No, unless direct cooling outcomes are verified separately |
+| Sunshade Credit | Blocking or reducing incoming sunlight | No |
+| Reflect Credit | Increasing reflectivity or albedo | No, unless direct cooling outcomes are verified separately |
+| Adaptation Credit | Reducing vulnerability or exposure | No, unless physical cooling is verified |
+| Resilience Credit | Improving disaster preparedness | No, unless physical cooling is verified |
 
-MRV means:
+---
+
+## 8. Boundary Rule
+
+A project may be classified as a Cooling Credit only if its primary verified outcome is one or more of the following:
 
 ```text
-Measurement: measuring the cooling effect.
-Reporting: documenting the method and result.
-Verification: allowing independent or reproducible confirmation.
+direct cooling
+thermal-load reduction
+water-cycle cooling recovery
+latent heat transport recovery
+soil moisture and evapotranspiration recovery
+ocean-atmosphere heat-exchange recovery
+natural cooling-function restoration
 ```
 
-Possible indicators include:
+If the primary mechanism is sunlight blocking, solar shielding, albedo increase, carbon accounting, or general adaptation, it must be classified under another credit category.
+
+---
+
+## 9. MRV Requirements
+
+A Cooling Credit must be supported by Measurement, Reporting, and Verification.
+
+Required indicators may include:
 
 - air temperature;
-- surface temperature;
-- WBGT;
+- land-surface temperature;
+- water or sea-surface temperature;
+- wet-bulb globe temperature;
 - soil moisture;
-- vegetation index;
 - evapotranspiration;
-- cooling-energy demand;
-- waste-heat reduction;
-- water use;
-- sea surface temperature;
-- dissolved oxygen;
-- heat-related health risk;
-- agricultural heat stress;
-- disaster-risk reduction.
+- humidity;
+- heat flux;
+- water retention;
+- vegetation recovery;
+- ocean mixing indicators;
+- energy demand reduction caused by verified cooling;
+- disaster-risk pressure reduction linked to verified cooling.
 
-Cooling effects vary by region, season, humidity, baseline conditions, and time of day. Therefore, Cooling Credits should not depend on a single universal number. They should be evaluated through transparent, context-sensitive, multi-indicator MRV.
+The issuing unit must define:
 
----
-
-## 9. Boundary Statement
-
-This repository defines the boundary as follows:
-
-> **A Cooling Credit is a credit for verified heat-load reduction and restoration of natural cooling functions. Accounting offsets, unverified claims, and measures that do not physically reduce present heat loads should be distinguished from Cooling Credits.**
-
-This boundary does not deny other climate policies. It clarifies terminology.
-
-A project must answer:
-
-```text
-Did it cool?
-Was it measured?
-Was it verified?
-Did it restore natural cooling functions?
-Did it contribute to humans, civilization, and nature?
-```
-
-Only when these questions can be answered with evidence should a Cooling Credit be granted.
+1. baseline condition;
+2. intervention boundary;
+3. monitoring period;
+4. measured cooling outcome;
+5. attribution method;
+6. uncertainty range;
+7. permanence or duration;
+8. leakage or displacement risk;
+9. verification method.
 
 ---
 
-## Conclusion
+## 10. Naming Protection Clause
 
-Cooling Credit is not a new name for carbon offsetting.  
-It is not a public-relations label.  
-It is not a solar-reflection credit.  
-It is not an accounting permission to continue emissions.
+The term **Cooling Credit** should not be used for projects that do not directly reduce temperature, reduce existing heat load, or restore natural cooling functions.
 
-A Cooling Credit is a credit for actual cooling.
+Projects based mainly on blocking sunlight should be called **Sunshade Credits**.
 
-It evaluates whether an action physically reduced existing heat loads, restored water-cycle or natural cooling functions, and improved the resilience of humans, civilization, and nature.
+Projects based mainly on reflecting sunlight should be called **Reflect Credits**.
 
-In one sentence:
+Projects based mainly on CO₂ accounting should be called **Carbon Credits**.
 
-> **A Cooling Credit is verified credit for an action that actually cooled the Earth system.**
-
-If the word “cooling” is allowed to include anything that merely looks climate-friendly, the concept loses meaning.
-
-Therefore, the first principle must be strict:
-
-> **Only actions that measurably reduce heat should receive Cooling Credits.**
+This distinction is necessary to prevent conceptual dilution, greenwashing, and false equivalence between accounting-based mitigation, solar shielding, surface reflection, and physical cooling outcomes.
 
 ---
 
-## Related Projects
+## 11. Summary
 
-- [Global Warming Causal Structure](https://github.com/InchaComisho/Global-Warming-Causal-Structure)
-- [Global Warming Causal Structure - GitHub Pages](https://inchacomisho.github.io/Global-Warming-Causal-Structure/)
-- [NOTE Article: Causes and Causal Structure of Global Warming](https://note.com/inchacomusho/n/n5b2102ffc1c2)
-- [Cooling Credit Framework](https://github.com/InchaComisho/Cooling-Credit-Framework)
-- [Cooling Credit Implementation Portfolio](https://github.com/InchaComisho/Cooling-Credit-Implementation-Portfolio)
-- [Sustainable Future Cooling Credit Portal](https://github.com/InchaComisho/Sustainable-Future-Cooling-Credit-Portal)
-- [Carbon Credit to Cooling Credit](https://github.com/InchaComisho/Carbon-Credit-to-Cooling-Credit)
-- [Direct Planetary Cooling](https://github.com/InchaComisho/Direct-Planetary-Cooling)
+A Cooling Credit is not a carbon credit.  
+A Cooling Credit is not a sunshade credit.  
+A Cooling Credit is not a reflect credit.
 
----
+A Cooling Credit is a verified unit of physical cooling or natural cooling-function restoration.
 
-### Global Warming Causal Structure and Cooling Credit
-
-- [Cooling Credit Definition](https://github.com/InchaComisho/Cooling-Credit-Definition)
-
-## References
-
-- International Energy Agency, CO₂ Emissions in 2023: https://www.iea.org/reports/co2-emissions-in-2023
-- Global Carbon Project, Global Carbon Budget: https://globalcarbonbudget.org/
-- Reuters, global energy-related CO₂ emissions reached a record high in 2023: https://www.reuters.com/business/energy/global-energy-related-co2-emissions-hit-record-high-2023-iea-2024-03-01/
-- Reuters, carbon offsets and SBTi discussion: https://www.reuters.com/sustainability/corporate-climate-watchdog-document-deems-carbon-offsets-largely-ineffective-2024-05-09/
-
-<!-- COOLING-CREDIT-REPOSITORY-FAMILY:START -->
+Only interventions that directly reduce temperature, reduce existing heat load, or restore Earth’s natural cooling processes should be called Cooling Credits.
 
 ---
 
-## Related Cooling Credit Repository Family
+## Related Repositories
 
-This repository is part of the broader Cooling Credit knowledge system.
-The related repositories are mutually linked so that the definition, framework, implementation portfolio, finance model, disaster-risk interpretation, and transition from carbon credits to cooling credits can be read as one connected structure.
-
-| Repository | Role |
-|---|---|
-| [Cooling-Credit](https://github.com/InchaComisho/Cooling-Credit) | Core portal for the Cooling Credit concept |
-| [Cooling-Credit-Definition](https://github.com/InchaComisho/Cooling-Credit-Definition) | Definition and conceptual foundation of Cooling Credits |
-| [Cooling-Credit-Framework](https://github.com/InchaComisho/Cooling-Credit-Framework) | Framework, business models, and applied structure |
-| [Cooling-Credit-Implementation-Portfolio](https://github.com/InchaComisho/Cooling-Credit-Implementation-Portfolio) | Portfolio of implementation models and project types |
-| [Cooling-Credit-Implementation-and-Finance-Model](https://github.com/InchaComisho/Cooling-Credit-Implementation-and-Finance-Model) | Implementation roadmap, finance model, MRV, simulations, and global stabilization scenario |
-| [Carbon-Credit-to-Cooling-Credit](https://github.com/InchaComisho/Carbon-Credit-to-Cooling-Credit) | Transition logic from carbon-credit accounting to physical cooling outcomes |
-| [carbon-credit-limitations-cooling-credit](https://github.com/InchaComisho/carbon-credit-limitations-cooling-credit) | Limits of carbon-credit approaches and the need for cooling-based evaluation |
-| [Sustainable-Future-Cooling-Credit-Portal](https://github.com/InchaComisho/Sustainable-Future-Cooling-Credit-Portal) | Portal for sustainable future and Cooling Credit integration |
-| [El-Nino-Warning-and-Cooling-Credit](https://github.com/InchaComisho/El-Nino-Warning-and-Cooling-Credit) | El Nino, heat accumulation, warning logic, and Cooling Credit relevance |
-| [Climate-Disasters-as-Heat-Redistribution-and-Cooling-Credit](https://github.com/InchaComisho/Climate-Disasters-as-Heat-Redistribution-and-Cooling-Credit) | Climate disasters interpreted as heat redistribution and cooling-system failure |
-
-<!-- COOLING-CREDIT-REPOSITORY-FAMILY:END -->
-
+- [Cooling-Credit-Implementation-and-Finance-Model](https://github.com/InchaComisho/Cooling-Credit-Implementation-and-Finance-Model)
+- [Cooling-Credit-Framework](https://github.com/InchaComisho/Cooling-Credit-Framework)
+- [Cooling-Credit-Implementation-Portfolio](https://github.com/InchaComisho/Cooling-Credit-Implementation-Portfolio)
+- [Carbon-Credit-to-Cooling-Credit](https://github.com/InchaComisho/Carbon-Credit-to-Cooling-Credit)
+- [Sustainable-Future-Cooling-Credit-Portal](https://github.com/InchaComisho/Sustainable-Future-Cooling-Credit-Portal)
 
 ---
 
@@ -444,15 +256,15 @@ The related repositories are mutually linked so that the definition, framework, 
 
 Master / inchacomusho / InchaComisho
 
-An independent Japanese concept designer, observer, proposer, AI tuner, and definer of Artificial Wisdom.  
-Founder and proposer of the Natural Complementary Science knowledge system.  
-Publishes open concepts centered on natural law, Earth-system circulation regeneration, and AI co-creation.
+Independent Japanese concept designer, observer, proposer, AI tuner, and definer of Artificial Wisdom.  
+Founder and advocate of the academic framework of Natural Complementary Science.  
+Publicly active in natural-law philosophy, planetary circulation restoration, and co-creation with AI.
 
 ---
 
 ## Collaborative AI and Co-Creation Team
 
-This knowledge system has been developed through dialogue and co-creation between Master and multiple AI partners.
+This knowledge system has evolved through dialogue and co-creation between Master and multiple AI partners.
 
 - G (ChatGPT)
 - Mini (Gemini)
@@ -463,7 +275,7 @@ This knowledge system has been developed through dialogue and co-creation betwee
 
 ---
 
-## Publication Month
+## Published
 
 June 2026
 
@@ -473,32 +285,5 @@ June 2026
 
 CC BY 4.0
 
-This work is released under the Creative Commons Attribution 4.0 International License.  
-You may share, adapt, translate, and redistribute it, provided that clear attribution is given to **Master / inchacomusho / InchaComisho**.
-
----
-
-## Keywords
-
-Cooling Credit, cooling credit definition, physical cooling credit, thermal accounting, heat-load reduction, direct planetary cooling, climate adaptation, MRV, measurement reporting verification, water cycle restoration, soil moisture recovery, forest regeneration, ocean circulation, urban cooling, carbon credit limitations, carbon offset, solar radiation modification, solar geoengineering, natural cooling functions, civilization resilience, Natural Complementary Science
-
----
-
-## Hashtags
-
-#CoolingCredit  
-#CoolingCreditDefinition  
-#PhysicalCooling  
-#ThermalAccounting  
-#DirectPlanetaryCooling  
-#HeatLoadReduction  
-#MRV  
-#WaterCycle  
-#SoilRecovery  
-#ForestRegeneration  
-#OceanCirculation  
-#UrbanCooling  
-#ClimateAdaptation  
-#CarbonCredit  
-#SolarGeoengineering  
-#NaturalComplementaryScience
+This repository is released under the Creative Commons Attribution 4.0 International License.  
+Sharing, reuse, translation, adaptation, and redistribution are permitted with clear attribution to **Master / inchacomusho / InchaComisho**.
