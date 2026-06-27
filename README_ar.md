@@ -1,6 +1,6 @@
 تعريف أرصدة التبريد
 
-English⁠￼ | 日本語⁠￼ | العربية⁠￼
+English | 日本語 | العربية
 
 إطار تعريف وتصنيف مقترح بمستوى معيار دولي
 
@@ -238,11 +238,11 @@ English⁠￼ | 日本語⁠￼ | العربية⁠￼
 
 المستودعات ذات الصلة
 
-* Cooling-Credit-Implementation-and-Finance-Model⁠￼
-* Cooling-Credit-Framework⁠￼
-* Cooling-Credit-Implementation-Portfolio⁠￼
-* Carbon-Credit-to-Cooling-Credit⁠￼
-* Sustainable-Future-Cooling-Credit-Portal⁠￼
+* Cooling-Credit-Implementation-and-Finance-Model
+* Cooling-Credit-Framework
+* Cooling-Credit-Implementation-Portfolio
+* Carbon-Credit-to-Cooling-Credit
+* Sustainable-Future-Cooling-Credit-Portal
 
 ⸻
 
