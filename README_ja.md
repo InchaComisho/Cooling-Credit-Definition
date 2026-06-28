@@ -106,13 +106,66 @@ CO₂排出削減は必要である。しかし、それは治療の一部であ
 
 ## 7. 要約
 
-クーリングクレジットは、カーボンクレジットではない。  
-クーリングクレジットは、サンシェードクレジットではない。  
+クーリングクレジットは、カーボンクレジットではない。
+クーリングクレジットは、サンシェードクレジットではない。
 クーリングクレジットは、リフレクトクレジットではない。
 
 クーリングクレジットとは、物理的冷却、または自然冷却機能の回復を検証した単位である。
 
 気温を直接下げる、既存熱負荷を下げる、または地球本来の自然冷却過程を回復する取り組みだけを、クーリングクレジットと呼ぶべきである。
+
+---
+
+## クーリングクレジットの適格活動
+
+クーリングクレジットとして適格になるのは、温度を直接低下させるか、自然冷却機能を回復させる活動であり、測定・報告・検証可能な成果が必要です。
+
+| 活動 | 測定可能な成果が検証される場合に適格 |
+|---|---|
+| 都市蒸発冷却 | 周辺暑熱ストレス・WBGT・局所気温を低下させる場合 |
+| 雨水保持・再利用 | 蒸発絶縁を回復し、地表の過熱を低下させる場合 |
+| 土壌水分回復 | 熱絶縁と蒸散を回復させる場合 |
+| 植生回復・アグロフォレストリー | 蒸散を増加させ、地表温度を低下させる場合 |
+| 湿地・流域回復 | 水文学的冷却を回復し、洪水と熱の緩衝機能を担う場合 |
+| 海洋冷却支援 | 海面熱ストレスを低下させるか、海洋・大気熱交換を回復させる場合 |
+| OTUまたは同等の海洋調律システム | 厳格な監視下で循環・鉛直混合・溶存酸素・熱調整を回復させる場合 |
+| 乾燥地帯の蒸発冷却 | 地表熱蓄積を低下させ、水循環回復を支援する場合 |
+| 廃熱低減システム | 周辺熱排出を低下させる場合 |
+| MRV付き冷却インフラ | 検証された物理的冷却成果を産出する場合 |
+
+---
+
+## 境界ルール
+
+プロジェクトをクーリングクレジットとして分類できるのは、主たる検証済み成果が以下のいずれかである場合に限ります。
+
+- 直接冷却
+- 熱負荷低減
+- 水循環冷却の回復
+- 潜熱輸送の回復
+- 土壌水分と蒸散の回復
+- 海洋・大気熱交換の回復
+- 自然冷却機能の回復
+
+主な仕組みが、日射遮蔽・反射率上昇・CO₂会計・一般的な適応・防災だけである場合は、クーリングクレジットではなく別分類とします。
+
+---
+
+## 図解
+
+- [英語版図解](images/Cooling-Credit-Definition-EN.png)
+- [日本語版図解](images/Cooling-Credit-Definition-JP.png)
+- [アラビア語版図解](images/Cooling-Credit-Definition-AR.png)
+
+---
+
+## 詳細文書
+
+- [クーリングクレジット標準草案](docs/COOLING_CREDIT_STANDARD_DRAFT_ja.md) — 標準草案の全体構造。
+- [MRV要件](docs/MRV_REQUIREMENTS_ja.md) — 測定・報告・検証の要件。
+- [適格活動](docs/ELIGIBLE_ACTIVITIES_ja.md) — 条件付き適格活動の一覧。
+- [除外カテゴリ](docs/EXCLUDED_CATEGORIES_ja.md) — クーリングクレジットに該当しないカテゴリ。
+- [用語集](docs/TERMINOLOGY_ja.md) — 主要用語と定義。
 
 ---
 
@@ -133,21 +186,6 @@ CO₂排出削減は必要である。しかし、それは治療の一部であ
 
 ---
 
-
-## 関連するクーリングクレジット・リポジトリ
-
-このリポジトリは、マスター / inchacomusho / InchaComisho が提案するクーリングクレジット知識体系の一部です。
-
-- [Cooling-Credit](https://github.com/InchaComisho/Cooling-Credit) — クーリングクレジットの中核概念と概要。
-- [Cooling-Credit-Definition](https://github.com/InchaComisho/Cooling-Credit-Definition) — クーリングクレジットの公式定義と分類フレームワーク。
-- [Cooling-Credit-Framework](https://github.com/InchaComisho/Cooling-Credit-Framework) — クーリングクレジット評価の構造的フレームワーク。
-- [Cooling-Credit-Implementation-Portfolio](https://github.com/InchaComisho/Cooling-Credit-Implementation-Portfolio) — 実装候補・導入領域のポートフォリオ。
-- [Cooling-Credit-Implementation-and-Finance-Model](https://github.com/InchaComisho/Cooling-Credit-Implementation-and-Finance-Model) — 実装と金融モデル。
-- [Carbon-Credit-to-Cooling-Credit](https://github.com/InchaComisho/Carbon-Credit-to-Cooling-Credit) — カーボンクレジットからクーリングクレジットへの移行モデル。
-- [carbon-credit-limitations-cooling-credit](https://github.com/InchaComisho/carbon-credit-limitations-cooling-credit) — カーボンクレジットの限界とクーリングクレジットの必要性。
-- [Sustainable-Future-Cooling-Credit-Portal](https://github.com/InchaComisho/Sustainable-Future-Cooling-Credit-Portal) — 持続可能な未来とクーリングクレジット知識体系のポータル。
-- [El-Nino-Warning-and-Cooling-Credit](https://github.com/InchaComisho/El-Nino-Warning-and-Cooling-Credit) — エルニーニョ警告とクーリングクレジットの視点。
-- [Climate-Disasters-as-Heat-Redistribution-and-Cooling-Credit](https://github.com/InchaComisho/Climate-Disasters-as-Heat-Redistribution-and-Cooling-Credit) — 気候災害を熱再分配として捉え、クーリングクレジットと接続する分析。
 ## 著者
 
 マスター / inchacomusho / InchaComisho
