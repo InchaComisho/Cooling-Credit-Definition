@@ -209,6 +209,7 @@ If the primary mechanism is solely solar radiation reduction, albedo increase, C
 
 - [Cooling Credit Standard Draft](docs/COOLING_CREDIT_STANDARD_DRAFT.md) - Full standard draft structure.
 - [Cooling Naming Boundary](docs/COOLING_NAMING_BOUNDARY.md) - Strict boundary between cooling, sunshade, shade, reflect, albedo, and heat-input suppression.
+- [Natural Cooling Feedback Restart Model](docs/NATURAL_COOLING_FEEDBACK_RESTART.md) - Model for restarting Earth’s self-cooling feedback through water, soil, vegetation, oceans, and circulation.
 - [MRV Requirements](docs/MRV_REQUIREMENTS.md) - Measurement, Reporting, and Verification requirements.
 - [Eligible Activities](docs/ELIGIBLE_ACTIVITIES.md) - Full list of eligible activities with conditions.
 - [Excluded Categories](docs/EXCLUDED_CATEGORIES.md) - Categories that are not Cooling Credits.
