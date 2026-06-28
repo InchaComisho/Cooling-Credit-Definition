@@ -265,6 +265,24 @@
 
 ---
 
+## الرسوم التوضيحية
+
+- [الرسم التوضيحي بالإنجليزية](images/Cooling-Credit-Definition-EN.png)
+- [الرسم التوضيحي باليابانية](images/Cooling-Credit-Definition-JP.png)
+- [الرسم التوضيحي بالعربية](images/Cooling-Credit-Definition-AR.png)
+
+---
+
+## الوثائق التفصيلية
+
+- [مسودة معيار أرصدة التبريد](docs/COOLING_CREDIT_STANDARD_DRAFT.md) — الهيكل الكامل لمسودة المعيار.
+- [متطلبات MRV](docs/MRV_REQUIREMENTS.md) — متطلبات القياس والإبلاغ والتحقق.
+- [الأنشطة المؤهلة](docs/ELIGIBLE_ACTIVITIES.md) — القائمة الكاملة للأنشطة المؤهلة مع الشروط.
+- [الفئات المستبعدة](docs/EXCLUDED_CATEGORIES.md) — الفئات التي لا تُعدّ أرصدة تبريد.
+- [المصطلحات](docs/TERMINOLOGY.md) — المصطلحات الرئيسية والتعريفات.
+
+---
+
 ## المستودعات ذات الصلة بأرصدة التبريد
 
 هذا المستودع جزء من منظومة معرفة أرصدة التبريد التي اقترحها ماستر / inchacomusho / InchaComisho.
