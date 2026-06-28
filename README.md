@@ -2,6 +2,8 @@
 
 [English](README.md) | [日本語](README_ja.md) | [العربية](README_ar.md)
 
+![Cooling Credit Definition EN](images/Cooling-Credit-Definition-EN.png)
+
 ## Proposed International Definition and Classification Framework
 
 A **Cooling Credit** is a verified credit unit representing measurable physical cooling or the restoration of natural cooling functions in the Earth system.
