@@ -85,6 +85,8 @@ The word **cooling** must be protected.
 
 A project may be called a **Cooling Credit** only when its verified primary outcome is direct cooling or the restoration of natural cooling functions.
 
+For the detailed naming boundary between **cooling**, **sunshade**, **shade**, **reflect**, **albedo**, and **heat-input suppression**, see [Cooling Naming Boundary](docs/COOLING_NAMING_BOUNDARY.md).
+
 The following must not be called Cooling Credits by default:
 
 - projects that mainly reduce incoming solar input;
@@ -206,6 +208,7 @@ If the primary mechanism is solely solar radiation reduction, albedo increase, C
 ## Documentation
 
 - [Cooling Credit Standard Draft](docs/COOLING_CREDIT_STANDARD_DRAFT.md) - Full standard draft structure.
+- [Cooling Naming Boundary](docs/COOLING_NAMING_BOUNDARY.md) - Strict boundary between cooling, sunshade, shade, reflect, albedo, and heat-input suppression.
 - [MRV Requirements](docs/MRV_REQUIREMENTS.md) - Measurement, Reporting, and Verification requirements.
 - [Eligible Activities](docs/ELIGIBLE_ACTIVITIES.md) - Full list of eligible activities with conditions.
 - [Excluded Categories](docs/EXCLUDED_CATEGORIES.md) - Categories that are not Cooling Credits.
