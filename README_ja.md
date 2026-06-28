@@ -126,6 +126,21 @@ CO₂排出削減は必要である。しかし、それは治療の一部であ
 
 ---
 
+
+## 関連するクーリングクレジット・リポジトリ
+
+このリポジトリは、マスター / inchacomusho / InchaComisho が提案するクーリングクレジット知識体系の一部です。
+
+- [Cooling-Credit](https://github.com/InchaComisho/Cooling-Credit) — クーリングクレジットの中核概念と概要。
+- [Cooling-Credit-Definition](https://github.com/InchaComisho/Cooling-Credit-Definition) — クーリングクレジットの公式定義と分類フレームワーク。
+- [Cooling-Credit-Framework](https://github.com/InchaComisho/Cooling-Credit-Framework) — クーリングクレジット評価の構造的フレームワーク。
+- [Cooling-Credit-Implementation-Portfolio](https://github.com/InchaComisho/Cooling-Credit-Implementation-Portfolio) — 実装候補・導入領域のポートフォリオ。
+- [Cooling-Credit-Implementation-and-Finance-Model](https://github.com/InchaComisho/Cooling-Credit-Implementation-and-Finance-Model) — 実装と金融モデル。
+- [Carbon-Credit-to-Cooling-Credit](https://github.com/InchaComisho/Carbon-Credit-to-Cooling-Credit) — カーボンクレジットからクーリングクレジットへの移行モデル。
+- [carbon-credit-limitations-cooling-credit](https://github.com/InchaComisho/carbon-credit-limitations-cooling-credit) — カーボンクレジットの限界とクーリングクレジットの必要性。
+- [Sustainable-Future-Cooling-Credit-Portal](https://github.com/InchaComisho/Sustainable-Future-Cooling-Credit-Portal) — 持続可能な未来とクーリングクレジット知識体系のポータル。
+- [El-Nino-Warning-and-Cooling-Credit](https://github.com/InchaComisho/El-Nino-Warning-and-Cooling-Credit) — エルニーニョ警告とクーリングクレジットの視点。
+- [Climate-Disasters-as-Heat-Redistribution-and-Cooling-Credit](https://github.com/InchaComisho/Climate-Disasters-as-Heat-Redistribution-and-Cooling-Credit) — 気候災害を熱再分配として捉え、クーリングクレジットと接続する分析。
 ## 著者
 
 マスター / inchacomusho / InchaComisho
