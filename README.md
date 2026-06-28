@@ -1,4 +1,4 @@
-# Cooling Credit Definition
+# Official Definition of Cooling Credits (Draft International Standard)
 
 [English](README.md) | [日本語](README_ja.md) | [العربية](README_ar.md)
 
