@@ -1,4 +1,4 @@
-# クーリングクレジット定義
+# クーリングクレジット公式定義（国際標準案）
 
 [English](README.md) | [日本語](README_ja.md) | [العربية](README_ar.md)
 
