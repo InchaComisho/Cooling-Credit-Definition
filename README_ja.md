@@ -165,6 +165,7 @@ CO₂排出削減は必要である。しかし、それは治療の一部であ
 
 - [クーリングクレジット標準草案](docs/COOLING_CREDIT_STANDARD_DRAFT_ja.md) — 標準草案の全体構造。
 - [冷却名称境界定義](docs/COOLING_NAMING_BOUNDARY_ja.md) — 冷却・遮光・日陰・反射・アルベド・熱入力抑制の厳密な境界。
+- [自然冷却フィードバック再起動モデル](docs/NATURAL_COOLING_FEEDBACK_RESTART_ja.md) — 水・土壌・植生・海洋・循環による地球の自己冷却フィードバック再起動モデル。
 - [MRV要件](docs/MRV_REQUIREMENTS_ja.md) — 測定・報告・検証の要件。
 - [適格活動](docs/ELIGIBLE_ACTIVITIES_ja.md) — 条件付き適格活動の一覧。
 - [除外カテゴリ](docs/EXCLUDED_CATEGORIES_ja.md) — クーリングクレジットに該当しないカテゴリ。
