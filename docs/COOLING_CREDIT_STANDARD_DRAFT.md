@@ -47,3 +47,12 @@ This standard applies to projects, activities, and interventions that claim to g
 ## 5. Draft Status Notice
 
 This document is a proposed framework. It is not an officially adopted international standard. The terminology, classification, and MRV requirements described here are proposed by the author as a contribution to the emerging field of direct planetary cooling governance.
+
+---
+
+## License
+
+CC BY 4.0
+
+This article is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0).  
+Sharing, redistribution, translation, adaptation, and reuse are permitted as long as proper attribution is given.
