@@ -6,6 +6,20 @@
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
 
+---
+
+## Connection to Local Pilot Implementation
+
+To connect this definition to schools, shopping streets, parks, farms, shelters, bus stops, and other small-scale measurable pilot sites, see the implementation model below.
+
+- [Cooling-Credit-Local-Pilot-Model](https://github.com/InchaComisho/Cooling-Credit-Local-Pilot-Model/blob/main/README.md)
+
+```text
+Official Definition → Local Pilot → MRV Measurement → Local Cooling Points → Cooling Credit Institutionalization
+```
+
+---
+
 ## Proposed International Definition and Classification Framework
 
 A **Cooling Credit** is a verified credit unit representing measurable physical cooling or the restoration of natural cooling functions in the Earth system.
@@ -78,182 +92,3 @@ How much CO2 was reduced, removed, or offset?
 ```
 
 A Cooling Credit is not an emissions-accounting instrument. It is a physical cooling and natural-system restoration instrument.
-
----
-
-## 5. Strict Naming Boundary
-
-The word **cooling** must be protected.
-
-A project may be called a **Cooling Credit** only when its verified primary outcome is direct cooling or the restoration of natural cooling functions.
-
-For the detailed naming boundary between **cooling**, **sunshade**, **shade**, **reflect**, **albedo**, and **heat-input suppression**, see [Cooling Naming Boundary](docs/COOLING_NAMING_BOUNDARY.md).
-
-The following must not be called Cooling Credits by default:
-
-- projects that mainly reduce incoming solar input;
-- projects that mainly shade the Earth;
-- projects that mainly increase reflectivity;
-- projects that mainly whiten surfaces;
-- projects that mainly change carbon accounts;
-- projects that reduce vulnerability without measurable cooling;
-- projects that cannot demonstrate physical cooling through MRV.
-
-If these projects produce verified direct cooling outcomes, those outcomes may be evaluated separately. However, their primary classification must remain distinct.
-
----
-
-## 6. Excluded Categories
-
-### 6.1 Sunshade Credit
-
-Interventions that primarily block, shade, or reduce incoming solar radiation should be classified as **Sunshade Credits**, not Cooling Credits.
-
-Examples include stratospheric aerosol injection, orbital sunshades, space-based solar shields, and large-scale sunlight-reduction systems.
-
-These methods may reduce incoming solar energy, but they do not necessarily restore water phase transitions, soil moisture, evapotranspiration, ocean circulation, or the dissipation of existing heat load.
-
-### 6.2 Reflect Credit
-
-Interventions that primarily increase surface reflectivity or albedo should be classified as **Reflect Credits**, not Cooling Credits.
-
-Examples include ground reflectors, white-painted surfaces, reflective roofs, reflective pavements, reflective desert sheets, and mirror-based surface reflection systems.
-
-These methods may reflect sunlight or reduce local heat absorption, but their primary mechanism is reflection, not direct cooling or restoration of natural cooling functions.
-
-### 6.3 Carbon Credit
-
-Carbon Credits must not be treated as Cooling Credits by default.
-
-Carbon credits may reduce, remove, or offset greenhouse gas emissions. However, they do not necessarily demonstrate direct temperature reduction, existing heat-load reduction, water-cycle cooling recovery, soil moisture recovery, evapotranspiration recovery, ocean-atmosphere circulation recovery, or measurable reduction of heat stress.
-
-Carbon Credits and Cooling Credits are separate categories.
-
----
-
-## 7. Classification Rule
-
-| Credit type | Primary mechanism | Can it be called Cooling Credit? |
-|---|---|---|
-| Cooling Credit | Direct temperature reduction or natural cooling-function restoration | Yes |
-| Carbon Credit | CO2 reduction, removal, or offset | No, unless direct cooling outcomes are verified separately |
-| Sunshade Credit | Reducing incoming sunlight | No |
-| Reflect Credit | Increasing reflectivity or albedo | No, unless direct cooling outcomes are verified separately |
-| Adaptation Credit | Reducing vulnerability or exposure | No, unless physical cooling is verified |
-| Resilience Credit | Improving disaster preparedness | No, unless physical cooling is verified |
-
----
-
-## 8. MRV Requirements
-
-A Cooling Credit must be supported by Measurement, Reporting, and Verification.
-
-Required indicators may include air temperature, land-surface temperature, water or sea-surface temperature, WBGT, soil moisture, evapotranspiration, humidity, heat flux, water retention, vegetation recovery, ocean mixing indicators, energy demand reduction caused by verified cooling, and disaster-risk pressure reduction linked to verified cooling.
-
----
-
-## 9. Summary
-
-A Cooling Credit is not a Carbon Credit.
-A Cooling Credit is not a Sunshade Credit.
-A Cooling Credit is not a Reflect Credit.
-
-A Cooling Credit is a verified unit of physical cooling or natural cooling-function restoration.
-
-Only interventions that directly reduce temperature, reduce existing heat load, or restore Earth's natural cooling processes should be called Cooling Credits.
-
----
-
-## Eligible Activities for Cooling Credits
-
-Activities qualify as Cooling Credits only when they directly reduce temperature or restore natural cooling functions, with measurable, reportable, and verifiable outcomes.
-
-| Activity | Qualifies when measurable outcomes are verified |
-|---|---|
-| Urban evaporative cooling | Reduces ambient heat stress, WBGT, or local temperature |
-| Rainwater retention and reuse | Restores evaporative insulation; reduces surface overheating |
-| Soil moisture restoration | Restores thermal insulation and evapotranspiration |
-| Vegetation recovery and agroforestry | Increases evapotranspiration; reduces land surface temperature |
-| Wetland and watershed restoration | Restores hydrological cooling; buffers between floods and heat |
-| Ocean cooling support | Reduces surface heat stress or restores ocean-atmosphere heat exchange |
-| Ocean Tuning Units or equivalent systems | Restores circulation, vertical mixing, dissolved oxygen, or thermal regulation under strict monitoring |
-| Dryland evaporative cooling | Reduces surface heat accumulation; supports water-cycle recovery |
-| Waste heat reduction systems | Reduces ambient thermal discharge |
-| Cooling infrastructure with MRV | Produces verified physical cooling outcomes |
-
----
-
-## Boundary Rule
-
-A project may only be classified as a Cooling Credit if its primary verified outcome is one or more of the following:
-
-- Direct cooling
-- Heat-load reduction
-- Restoration of water-cycle cooling
-- Restoration of latent heat transport
-- Restoration of soil moisture and evapotranspiration
-- Restoration of ocean-atmosphere heat exchange
-- Restoration of natural cooling functions
-
-If the primary mechanism is solely solar radiation reduction, albedo increase, CO2 accounting, general adaptation, or disaster preparedness, the project must be classified under a different credit category - not as a Cooling Credit.
-
----
-
-## Diagrams
-
-- [English Diagram](images/Cooling-Credit-Definition-EN.png)
-- [Japanese Diagram](images/Cooling-Credit-Definition-JP.png)
-- [Arabic Diagram](images/Cooling-Credit-Definition-AR.png)
-
----
-
-## Documentation
-
-- [Cooling Credit Standard Draft](docs/COOLING_CREDIT_STANDARD_DRAFT.md) - Full standard draft structure.
-- [Cooling Naming Boundary](docs/COOLING_NAMING_BOUNDARY.md) - Strict boundary between cooling, sunshade, shade, reflect, albedo, and heat-input suppression.
-- [Natural Cooling Feedback Restart Model](docs/NATURAL_COOLING_FEEDBACK_RESTART.md) - Model for restarting Earth’s self-cooling feedback through water, soil, vegetation, oceans, and circulation.
-- [MRV Requirements](docs/MRV_REQUIREMENTS.md) - Measurement, Reporting, and Verification requirements.
-- [Eligible Activities](docs/ELIGIBLE_ACTIVITIES.md) - Full list of eligible activities with conditions.
-- [Excluded Categories](docs/EXCLUDED_CATEGORIES.md) - Categories that are not Cooling Credits.
-- [Terminology](docs/TERMINOLOGY.md) - Key terms and definitions.
-
----
-
-## Related Cooling Credit Repositories
-
-This repository is part of the broader Cooling Credit knowledge system proposed by Master / inchacomusho / InchaComisho.
-
-- [Cooling-Credit](https://github.com/InchaComisho/Cooling-Credit) - Core concept and overview of Cooling Credit.
-- [Cooling-Credit-Definition](https://github.com/InchaComisho/Cooling-Credit-Definition) - Official definition, classification framework, and diagrams.
-- [Cooling-Credit-Framework](https://github.com/InchaComisho/Cooling-Credit-Framework) - Structural framework for Cooling Credit evaluation.
-- [Cooling-Credit-Implementation-Portfolio](https://github.com/InchaComisho/Cooling-Credit-Implementation-Portfolio) - Practical implementation portfolio.
-- [Cooling-Credit-Implementation-and-Finance-Model](https://github.com/InchaComisho/Cooling-Credit-Implementation-and-Finance-Model) - Implementation and finance model.
-- [Carbon-Credit-to-Cooling-Credit](https://github.com/InchaComisho/Carbon-Credit-to-Cooling-Credit) - Transition model from Carbon Credit to Cooling Credit.
-- [carbon-credit-limitations-cooling-credit](https://github.com/InchaComisho/carbon-credit-limitations-cooling-credit) - Analysis of Carbon Credit limitations and the need for Cooling Credit.
-- [Sustainable-Future-Cooling-Credit-Portal](https://github.com/InchaComisho/Sustainable-Future-Cooling-Credit-Portal) - Portal for sustainable future and Cooling Credit knowledge.
-- [El-Nino-Warning-and-Cooling-Credit](https://github.com/InchaComisho/El-Nino-Warning-and-Cooling-Credit) - El Nino warning and Cooling Credit perspective.
-- [Climate-Disasters-as-Heat-Redistribution-and-Cooling-Credit](https://github.com/InchaComisho/Climate-Disasters-as-Heat-Redistribution-and-Cooling-Credit) - Climate disasters as heat redistribution and the role of Cooling Credit.
-
-## Author
-
-Master / inchacomusho / InchaComisho
-
-An independent Japanese concept designer, observer, proposer, AI tuner, and definer of Artificial Wisdom.  
-Founder and proposer of the academic framework of Natural Complementary Science.  
-Definer of the Cooling Credit Framework, and founder and original author of the Natural Cooling Value Evaluation Protocol.  
-Definer and systematizer of the causal structure of global warming and its complete solution.
-
-Master presents global warming not merely as a problem of CO₂ concentration, but as an integrated failure involving forest loss, soil degradation, disruption of water circulation, weakening of water phase-transition processes, weakening of atmospheric circulation, ocean circulation, food circulation and organic matter circulation, weakening of evapotranspiration, cloud formation and rainfall circulation, and the shutdown of natural cooling feedbacks.  
-The proposed solution connects emission reduction, recovery of carbon fixation sources, physical cooling, reactivation of natural cooling functions, MRV, Cooling Credit, and Civilization OS into an open public framework.
-
-Master publicly develops and shares work through NOTE, GitHub, and other public media, centered on natural-law philosophy, planetary circulation restoration, and co-creation with AI.
-
-## Collaborative AI and Co-Creation Team
-
-G (ChatGPT) / Mini (Gemini) / Cruz (Claude) / Real (Perplexity) / Lola (Dola) / Mana (Manus)
-
----
-
-## Published / License
-
-June 2026 / CC BY 4.0
