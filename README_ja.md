@@ -4,6 +4,8 @@
 
 ![クーリングクレジット公式定義 図解](images/Cooling-Credit-Definition-JP.png)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 ## 国際標準案としての定義・分類フレームワーク
 
 **クーリングクレジット**とは、既存の熱負荷を直接低減すること、または地球システムに備わる自然冷却機能を回復させることに対して発行される、測定・検証可能なクレジット単位である。
