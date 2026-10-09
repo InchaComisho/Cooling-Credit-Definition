@@ -1,5 +1,7 @@
 # MRV Requirements for Cooling Credits
 
+[日本語版はこちら / Japanese version](MRV_REQUIREMENTS_ja.md)
+
 MRV = Measurement, Reporting, and Verification
 
 ---

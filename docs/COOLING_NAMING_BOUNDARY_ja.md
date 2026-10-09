@@ -1,5 +1,7 @@
 # 冷却名称境界定義
 
+[English Version](COOLING_NAMING_BOUNDARY.md)
+
 ## 冷却・遮光・反射・熱入力抑制は分けて定義する必要がある
 
 本書は、**Cooling Credit（クーリングクレジット）** という名称を守るための厳格な境界定義である。

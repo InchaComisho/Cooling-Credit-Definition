@@ -1,5 +1,7 @@
 # 用語集 — クーリングクレジット定義
 
+[English Version](TERMINOLOGY.md)
+
 ---
 
 ## クーリングクレジット（Cooling Credit）

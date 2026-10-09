@@ -1,5 +1,7 @@
 # Cooling Naming Boundary
 
+[日本語版はこちら / Japanese version](COOLING_NAMING_BOUNDARY_ja.md)
+
 ## Cooling, Shading, Reflection, and Heat-Input Suppression Must Be Separated
 
 This document defines a strict naming boundary for the term **Cooling Credit**.

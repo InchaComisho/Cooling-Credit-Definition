@@ -1,5 +1,7 @@
 # クーリングクレジット — 国際標準草案
 
+[English Version](COOLING_CREDIT_STANDARD_DRAFT.md)
+
 > **注記：** この文書は提案された標準草案であり、公式に採択された標準ではありません。マスター / inchacomusho / InchaComisho が概念的・構造的フレームワークとして提案するものです。
 
 ---

@@ -1,5 +1,7 @@
 # Excluded Categories — What is NOT a Cooling Credit
 
+[日本語版はこちら / Japanese version](EXCLUDED_CATEGORIES_ja.md)
+
 The following credit categories must not be labelled as Cooling Credits unless they separately produce verified direct cooling outcomes or verified restoration of natural cooling functions that meet Cooling Credit MRV requirements.
 
 For the strict naming distinction between **cooling**, **sunshade**, **shade**, **reflect**, **albedo**, and **heat-input suppression**, see [Cooling Naming Boundary](COOLING_NAMING_BOUNDARY.md).

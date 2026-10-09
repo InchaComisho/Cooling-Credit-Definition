@@ -1,5 +1,7 @@
 # Terminology — Cooling Credit Definition
 
+[日本語版はこちら / Japanese version](TERMINOLOGY_ja.md)
+
 ---
 
 ## Cooling Credit

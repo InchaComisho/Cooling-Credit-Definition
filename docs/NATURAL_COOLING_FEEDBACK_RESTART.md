@@ -1,5 +1,7 @@
 # Natural Cooling Feedback Restart Model
 
+[日本語版はこちら / Japanese version](NATURAL_COOLING_FEEDBACK_RESTART_ja.md)
+
 ## Why Cooling Credits Are Different from Pseudo-Cooling Credits
 
 This document defines the **Natural Cooling Feedback Restart Model** as a core concept of Cooling Credits.

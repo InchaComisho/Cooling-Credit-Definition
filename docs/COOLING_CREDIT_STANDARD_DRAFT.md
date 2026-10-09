@@ -1,5 +1,7 @@
 # Cooling Credit — Draft International Standard
 
+[日本語版はこちら / Japanese version](COOLING_CREDIT_STANDARD_DRAFT_ja.md)
+
 > **Note:** This document is a proposed draft standard, not an officially adopted standard. It is proposed by Master / inchacomusho / InchaComisho as a conceptual and structural framework.
 
 ---

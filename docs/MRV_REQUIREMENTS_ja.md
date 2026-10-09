@@ -1,5 +1,7 @@
 # クーリングクレジットのMRV要件
 
+[English Version](MRV_REQUIREMENTS.md)
+
 MRV = 測定（Measurement）・報告（Reporting）・検証（Verification）
 
 ---

@@ -1,3 +1,4 @@
+[日本語版はこちら / Japanese version](ELIGIBLE_ACTIVITIES_ja.md)
 
 
 ---
